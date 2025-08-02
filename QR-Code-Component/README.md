@@ -5,6 +5,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+- links
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -21,6 +22,9 @@ QR Code Component challenge is about building a simple card component centered i
 
 #### Mobile View
 ![my output](./documentation/images/my-output_mobile.png)
+
+## Links
+[QR-Code page](https://ahmed-araby.github.io/CSS-Challenges/)
 
 ## My process
 * define the design system specified in the Figma design file using css variables for consistency and reusability
